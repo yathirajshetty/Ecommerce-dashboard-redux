@@ -9,7 +9,7 @@ import ViewProduct from '../src/Pages/ViewProduct/ViewProduct';
 function App() {
   return (
     <div className="App">
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path='/' element={<Dashboard />} />
         <Route path='/addproduct' element={<AddProduct />} />
