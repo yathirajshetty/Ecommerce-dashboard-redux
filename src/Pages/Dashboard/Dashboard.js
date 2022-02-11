@@ -29,11 +29,11 @@ const Dashboard =() =>{
         <DrawerHeader />
        
         
-          <AliceCarousel autoPlay autoPlayInterval="5000">
+          {/* <AliceCarousel autoPlay autoPlayInterval="5000">
           {products && products.map((product)=>(
           <img src={product.image} className="sliderimg" width="500" height="500"/>
         ))}
-    </AliceCarousel>
+    </AliceCarousel> */}
      
         {/* <Typography paragraph>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
