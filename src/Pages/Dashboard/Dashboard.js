@@ -34,7 +34,6 @@ const Dashboard =() =>{
           <img src={product.image} className="sliderimg" width="500" height="500"/>
         ))}
     </AliceCarousel>
-     
         {/* <Typography paragraph>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua. Rhoncus dolor purus non
