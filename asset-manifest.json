@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ecommerce-dashboard-redux/static/css/main.7933b1c8.css",
-    "main.js": "/Ecommerce-dashboard-redux/static/js/main.af7f6a79.js",
-    "static/js/787.77c2d83c.chunk.js": "/Ecommerce-dashboard-redux/static/js/787.77c2d83c.chunk.js",
-    "static/media/logo.svg": "/Ecommerce-dashboard-redux/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Ecommerce-dashboard-redux/index.html",
-    "main.7933b1c8.css.map": "/Ecommerce-dashboard-redux/static/css/main.7933b1c8.css.map",
-    "main.af7f6a79.js.map": "/Ecommerce-dashboard-redux/static/js/main.af7f6a79.js.map",
-    "787.77c2d83c.chunk.js.map": "/Ecommerce-dashboard-redux/static/js/787.77c2d83c.chunk.js.map"
+    "main.css": "http://yathirajshetty.github.io/Ecommerce-dashboard-redux/static/css/main.7933b1c8.css",
+    "main.js": "http://yathirajshetty.github.io/Ecommerce-dashboard-redux/static/js/main.48eb0f4b.js",
+    "static/js/787.77c2d83c.chunk.js": "http://yathirajshetty.github.io/Ecommerce-dashboard-redux/static/js/787.77c2d83c.chunk.js",
+    "static/media/logo.svg": "http://yathirajshetty.github.io/Ecommerce-dashboard-redux/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "http://yathirajshetty.github.io/Ecommerce-dashboard-redux/index.html",
+    "main.7933b1c8.css.map": "http://yathirajshetty.github.io/Ecommerce-dashboard-redux/static/css/main.7933b1c8.css.map",
+    "main.48eb0f4b.js.map": "http://yathirajshetty.github.io/Ecommerce-dashboard-redux/static/js/main.48eb0f4b.js.map",
+    "787.77c2d83c.chunk.js.map": "http://yathirajshetty.github.io/Ecommerce-dashboard-redux/static/js/787.77c2d83c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7933b1c8.css",
-    "static/js/main.af7f6a79.js"
+    "static/js/main.48eb0f4b.js"
   ]
 }
