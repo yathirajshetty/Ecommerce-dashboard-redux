@@ -7,9 +7,10 @@ import AddProduct from '../src/Pages/AddProduct/AddProduct';
 import AddCategory from '../src/Pages/AddCategory/AddCategory';
 import ViewProduct from '../src/Pages/ViewProduct/ViewProduct';
 function App() {
+  
   return (
     <div className="App">
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <Routes>
         <Route path='/' element={<Dashboard />} />
         <Route path='/addproduct' element={<AddProduct />} />
